@@ -1,0 +1,57 @@
+.ingredients{
+    font-size: 0.9em;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    text-align: center;
+    background-image: "/Users/Koontang/Documents/CodePartners/Lecture 5 lab/chocolate-pizza/pix/list-bg.png"
+}
+
+input[type=checkbox]:checked + label {
+    color:red;
+    text-decoration: line-through;
+}
+
+.leftRow{
+    position: absolute;
+    left: 320px;
+    top: 8px;
+    text-align: left;
+    margin: 10px 10px;
+    font-size: 17px;
+}
+.rightRow{
+    position: absolute;
+    top: 8px;
+    right: 290px;
+    text-align: left;
+    margin: 10px 10px;
+    font-size: 17px;
+}
+
+.info{
+    max-width: 860px;
+    color: dimgrey;
+    margin: auto;
+    text-align: center;
+
+    
+}
+
+
+.shareButton {
+    background-color: rgba(175, 83, 29, 0.657);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.author{
+   max-width: 80px;
+
+}
