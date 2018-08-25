@@ -1,0 +1,55 @@
+#logo {
+    float: left; 
+}
+#branding {
+    height: 45px;
+    padding-left: 5px;
+    display: inline-block;
+    padding-bottom: 100px;
+}
+#site-name {
+    font-size:25px;
+    margin: 0px;
+    font-family: Satisfy;
+    font-style: italic;
+}
+#site-subtitle {
+    margin: 0px;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-family: 'Amatic sc'
+}
+.links {
+    float: right;
+    padding-top: 15px;
+}
+#pinterest {
+    padding-right: 7px;
+}
+#gradient {
+    background-image: -webkit-linear-gradient(right top, grey, white);
+    height: 10px;
+    width: 100%;
+}
+.blog-info {
+    font-family: 'Jockey One';
+}
+#blog-title {
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    line-height:100%;
+}
+#date-category {
+    margin-top: 0px;
+    font-weight: 1;
+    text-transform: uppercase;
+    font-size: 10px;
+    line-height: 100%;
+    padding-top:0px;
+    color: grey;
+}
+#main-image {
+    margin-top: 40px;
+}
